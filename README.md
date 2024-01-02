@@ -34,7 +34,7 @@ Here are some READMEs generated using common-readme:
 ## Usage
 With [npm](https://www.npmjs.com/) installed, run
 
-"$ npm install -g common-readme"
+'$ npm install -g common-readme'
 
 'common-readme' is a command line program. You run it when you've started a new module that has a package.json set up.
 
