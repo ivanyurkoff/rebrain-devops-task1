@@ -22,7 +22,7 @@ __________
 
 common-readme operates on the principle of cognitive funneling.
 
-Ideally, someone who's slightly familiar with your module should be able to refresh their memory without hitting "page down". As your reader continues through the document, they should receive a progressively greater amount of knowledge. -- perlmodstyle
+>Ideally, someone who's slightly familiar with your module should be able to refresh their memory without hitting "page down". As your reader continues through the document, they should receive a progressively greater amount of knowledge. -- `perlmodstyle`
 
 Here are some READMEs generated using common-readme:
 
@@ -34,7 +34,9 @@ Here are some READMEs generated using common-readme:
 ## Usage
 With [npm](https://www.npmjs.com/) installed, run
 
-`$ npm install -g common-readme`
+```
+$ npm install -g common-readme
+```
 
 `common-readme` is a command line program. You run it when you've started a new module that has a package.json set up.
 
