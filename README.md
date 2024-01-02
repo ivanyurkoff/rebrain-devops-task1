@@ -34,13 +34,13 @@ Here are some READMEs generated using common-readme:
 ## Usage
 With [npm](https://www.npmjs.com/) installed, run
 
-'$ npm install -g common-readme'
+`$ npm install -g common-readme`
 
-'common-readme' is a command line program. You run it when you've started a new module that has a package.json set up.
+`common-readme` is a command line program. You run it when you've started a new module that has a package.json set up.
 
 When run, a brand new README is generated and written to your terminal. You can redirect this to README.md and use it as a basis for your new module.
 
-"$ common-readme > README.md"
+``$ common-readme > README.m``
 
 This brand new readme will be automatically populated with values from package.json such as name, description, and license. Stub sections will be created for everything else (Usage, API, etc), ready for you to fill in.
 
@@ -56,12 +56,13 @@ This brand new readme will be automatically populated with values from package.j
 
 1. Scanning through modules on npm is a part of every node developer's regular development cycle. Having a consistent format lets the brain focus on content instead of structure.
 </details>
+
 ## The Art of README
 For even more background, wisdom, and ideas, take a look at the article that inspired common-readme:
 
 Art of README.
 Install
-With npm installed, run
+With [npm](https://www.npmjs.com/) installed, run
 
 "npm install -g common-readme"
 You can now execute the common-readme command.
