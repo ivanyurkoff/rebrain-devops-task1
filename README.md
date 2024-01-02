@@ -42,18 +42,19 @@ When run, a brand new README is generated and written to your terminal. You can 
 "$ common-readme > README.md"
 This brand new readme will be automatically populated with values from package.json such as name, description, and license. Stub sections will be created for everything else (Usage, API, etc), ready for you to fill in.
 
-Why?
-This isn't a crazy new idea. Other ecosystems like Perl's CPAN have been benefiting from a common readme format for years. Furthermore:
+## Why?
+<details>
+<summary>This isn't a crazy new idea. Other ecosystems like Perl's CPAN have been benefiting from a common readme format for years. Furthermore:</summary>
 
-The node community is powered by us people and the modules we share. It's our documentation that links us together. Our README is the first thing developers see and it should be maximally effective at communicating its purpose and function.
+1. The node community is powered by us people and the modules we share. It's our documentation that links us together. Our README is the first thing developers see and it should be maximally effective at communicating its purpose and function.
 
-There is much wisdom to be found from the many developers who have written many many modules. Common readme aims to distill that experience into a common format that stands to benefit us all; especially newer developers!
+1. There is much wisdom to be found from the many developers who have written many many modules. Common readme aims to distill that experience into a common format that stands to benefit us all; especially newer developers!
 
-Writing the same boilerplate is a waste of every author's time -- we might as well generate the common pieces and let the author focus on the content.
+1. Writing the same boilerplate is a waste of every author's time -- we might as well generate the common pieces and let the author focus on the content.
 
-Scanning through modules on npm is a part of every node developer's regular development cycle. Having a consistent format lets the brain focus on content instead of structure.
-
-The Art of README
+1. Scanning through modules on npm is a part of every node developer's regular development cycle. Having a consistent format lets the brain focus on content instead of structure.
+</details>
+## The Art of README
 For even more background, wisdom, and ideas, take a look at the article that inspired common-readme:
 
 Art of README.
@@ -82,3 +83,7 @@ READMEs love readme!
 
 License
 ISC
+| Проверка | таблицы |
+| :-------| -----:|
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
